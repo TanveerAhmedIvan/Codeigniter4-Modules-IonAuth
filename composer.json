@@ -1,6 +1,6 @@
 {
-    "name": "tanveerahmedivan/codeigniter4-modules",
-    "description": "CodeIgniter4 starter app with Modules added",
+    "name": "tanveerahmedivan/Codeigniter4-Modules-IonAuth",
+    "description": "CodeIgniter 4 Application Starter With MODULES Implemented (HMVC) AND Ion-Auth",
     "license": "MIT",
     "type": "project",
     "homepage": "https://codeigniter.com",
