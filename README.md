@@ -28,7 +28,7 @@ Note, this version is meant to be used with CodeIgniter 4 and is not backwards c
 
 ## Installation & updates
 
-`composer create-project TanveerAhmedIvan/Codeigniter4-Modules-IonAuth` then `composer update` whenever
+`composer create-project tanveerahmedivan/codeigniter4-modules-ionauth` then `composer update` whenever
 there is a new release of the framework.
 
 When updating, check the release notes to see if there are any changes you might need to apply
